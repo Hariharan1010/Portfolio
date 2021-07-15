@@ -1,0 +1,155 @@
+.id li{
+    display: inline;
+    color:rgb(0, 0, 0);
+     padding: 20px 20px 20px 20px; 
+     /* margin-left: 50px;  */
+    font-size: 18px;
+    font-weight: bolder;
+     padding-left: 140px; 
+      
+}
+
+.example Link:hover{
+color:black;
+color: inherit;
+
+}
+
+.id{
+    background-color:rgb(4, 155, 49); 
+     padding: 10px;
+   /* margin: auto; */
+   
+     
+    
+}
+
+.hey{
+      width: 500px;
+       padding:auto; 
+      text-align: center;
+      
+      margin-left: 70px;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+    padding: auto;
+    
+    
+}
+
+.grid{
+    /* display: grid; */
+    /* grid-template-areas: 'left left left right right right'; */
+    /* background-image:url(https://images.unsplash.com/photo-1500989145603-8e7ef71d639e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=755&q=80) ; */
+    /* background-color:rgba(49, 49, 49, 0.034); */
+    padding: 200px;
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    background-color: whitesmoke;
+    padding-top: 50px;
+    padding-right: 50px;
+    text-align: right;
+}
+
+.grid h1{
+    /* padding-left: 60px; */
+      /* border: solid;    */
+    /* padding-bottom: 100px; */
+    font-family: monospace;
+    font-size: 50px;
+    margin-right: 0px;
+    padding-right: 5px;
+    color:rgb(8, 8, 8);;
+    margin-bottom: 0px;
+
+}
+
+ .grid h2{
+    color:rgb(0, 0, 0);
+    text-align: right;
+    /* padding-left: 20px; */
+    padding-right: 5px;
+    font-size: 90px;
+     margin-left: 10px; 
+        /* border: solid;     */
+     margin-top: 0px;
+    padding-bottom: 0px; 
+    padding-top: 0px;
+    margin-bottom: 0px;
+    font-family: monospace;
+ }
+
+.grid h3{
+     color: black;
+     font-size: 30px;
+      /* border: solid;  */
+     /* margin-bottom: 200px; */
+     font-family: monospace;
+     margin-top: 0px;
+ }
+
+/* .icon{
+    grid-area: right;
+}  */
+
+.hello{
+    background-color: rgb(4, 155, 49);
+    padding: 80px;
+    padding-top: 100px;
+    margin-top: 100px;
+    }
+
+.hello p{
+    border: solid;
+    text-align: center;
+    font-weight: bolder;
+} 
+
+.about{
+    padding:10%;
+}
+
+.about h1{
+    color: rgb(4, 155, 49);
+    font-size: 50px;
+    font-weight: bolder;
+    /* border: solid; */
+    margin-top: 0px;
+    font-style: inherit;
+    font-family: monospace;
+
+}
+
+.info li{
+    padding: 20px;
+    font-weight: bolder;
+}
+/* .footer h1{
+    border: solid;
+  
+    text-align: center;
+}
+
+.hai{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.har{
+    padding: 100px;
+} */
+
+/* .middle{
+    background-color: black;
+    padding: 200px;
+    padding-left: 100px;
+    background-size: cover;
+} */
+
+@media screen and only with {
+    
+}
